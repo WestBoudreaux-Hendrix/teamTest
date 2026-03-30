@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazorPagesMovie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe87466b7a15a9e8ada6e111b5a2bed51f6bdc25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51f2e431396139e20c99e932b076ef1ca8f49f84")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazorPagesMovie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazorPagesMovie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
